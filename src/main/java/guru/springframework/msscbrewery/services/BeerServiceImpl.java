@@ -1,9 +1,10 @@
 package guru.springframework.msscbrewery.services;
 
-import guru.springframework.msscbrewery.web.model.BeerDto;
+import java.util.UUID;
+
 import org.springframework.stereotype.Service;
 
-import java.util.UUID;
+import guru.springframework.msscbrewery.web.model.BeerDto;
 
 /**
  * Created by jt on 2019-04-20.
